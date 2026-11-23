@@ -1,0 +1,1 @@
+Infinite, 3D Head Scan by Lee Perry-Smith / Infinite-Realities. Creative Commons Attribution 3.0 Unported: https://creativecommons.org/licenses/by/3.0/ . Scan geometry and diffuse photograph via https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/LeePerrySmith . Adaptations: shoulder crop, scale, orientation, animation attachment and real-time relighting.
